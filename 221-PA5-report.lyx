@@ -1,0 +1,1057 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\headheight 0in
+\headsep 0in
+\footskip 0in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+CSCE 221 Cover Page
+\begin_inset Newline newline
+\end_inset
+
+ Programming Assignment #5 
+\end_layout
+
+\begin_layout Author
+\begin_inset space \hfill{}
+\end_inset
+
+First Name:
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Chase
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Last Name: 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+McDermott
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+UIN:
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+524004424
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Date
+\begin_inset space \hfill{}
+\end_inset
+
+User Name: 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+chasemcd1745
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+E-mail address:
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+chasemcd1745@tamu.edu
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more in the Aggie Honor System Office 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://aggiehonor.tamu.edu/"
+
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type of sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Web pages (provide URL) 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+http://www.algolist.net/
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Data_structures/Hash_table/Chaining
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Printed material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Programming Principles and Practices
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-Bjarne Stroustrup
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Other Sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dr.
+ Leyk's slides
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Date
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+I certify that I have listed all the sources that I used to develop the
+ solutions/code to the submitted work.
+\end_layout
+
+\begin_layout Quotation
+“
+\emph on
+On my honor as an Aggie, I have neither given nor received any unauthorized
+ help on this academic work.
+\emph default
+” 
+\end_layout
+
+\begin_layout Date
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Your Name (signature)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Chase McDermott
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4/12/2017
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\series bold
+\shape italic
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size larger
+Description for PA5:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This assignment was meant to teach us about how to implement the Hash Table
+ data structure.
+ The assignment is: given a list of students with: name, email, UIN, and
+ grade, (input.csv) parse this file using regular expressions, and store
+ the data in a hash table using the chaining method (vector of lined lists)
+ for collisions.
+ Next, parse a file with even more students (roster.csv), look up their UIN
+ in the hash table, and return their grade.
+ Output the data to a file (output.csv), with all of the data from roster.csv,
+ but with grades for students who were in input.csv.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Data Structures and Algorithms in assignment:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Obviously the main data structure used in this assignment is a hash table.
+ We use the hash table to store student data.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We use UIN as the key, and the grade is the data stored.
+\end_layout
+
+\begin_layout Itemize
+Our hash function is simply 
+\shape italic
+UIN mod table_size
+\shape default
+, with our table size being the size of the roster which is 100 students.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+We also use linked lists to handle collisions.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We also use a vector in our hash table class to hold all of the linked lists.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Our main algorithm used is our search function which computes the hash function
+ on the uin, looks up the linked list assigned to that hash key, and iterates
+ through the linked list until it finds the desired UIN.
+ This takes O(1) time complexity because on average, our linked lists are
+ size .17 with no linked list having more than one element.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Input and Output Data:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The input data is given in two files: input.csv, and roster.csv.
+ Roster.csv contains information for all 100 students (name, email, UIN),
+ and input.csv contains the same data along with a grade for a smaller number
+ of students who submitted the assignment.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+I assumed that all students have a UIN starting with 8 and having 8 digits
+ after the 8.
+ I used this in my regular expression to be more exact since all students
+ in roster.csv have a UIN mathcing this, but this could easily be changed
+ to simply 9 digits if needed.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The output data is simply the same as roster.csv, except with grades for
+ students who submitted the assignment.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Testing:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+I tested my program with the given input data, and also added some students
+ to the roster and to the input.csv along with grades to attempt to test
+ all cases for my program.
+ It works as expected.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Compiling and Running my Program:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+I created a Makefile for this program, so you simply run makefile, and then
+ run the program with 
+\begin_inset Quotes eld
+\end_inset
+
+./run-main
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Standard Library Classes:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In my main.cpp I included:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+iostream - for input and output.
+\end_layout
+
+\begin_layout Itemize
+fstream - for reading and writing to files.
+\end_layout
+
+\begin_layout Itemize
+string - for easily using strings.
+\end_layout
+
+\begin_layout Itemize
+regex - for parsing the files using regilar expressions.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Hash Table Statistics:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+These are all with a hash table size of 100 (corresponding to roster size).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Minimum linked list size: 0.
+\end_layout
+
+\begin_layout Itemize
+Maximum linked list size: 1.
+\end_layout
+
+\begin_layout Itemize
+Average linked list size: .17.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This is because with a hashtable size of 100 there are many linked lists
+ with size of 0.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+This does correspond to the expected running time for the hashing search
+ algorithm because the expected running time for search is O(1), and my
+ program computes a search in O(1) time as long as the size of the linked
+ lists are arbitrarily small (in our case all non-empty linked lists are
+ of size 1).
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset listings
+inline false
+status open
+
+\begin_layout Plain Layout
+
+int Hashtable::search(int key)
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+	// searches for and returns a value with a matching key
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    int newKey = hashFunc(key);
+\end_layout
+
+\begin_layout Plain Layout
+
+    // returns the grade of the student with the uin searched for
+\end_layout
+
+\begin_layout Plain Layout
+
+    return htable.at(newKey).search(key); 
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+int Linkedlist::search(int uin)  
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+	// searches for the node in the linked list who's uin 
+\end_layout
+
+\begin_layout Plain Layout
+
+	matches inputted uin and returns the grade
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    Node* curr = head;
+\end_layout
+
+\begin_layout Plain Layout
+
+    while (curr != nullptr) {
+\end_layout
+
+\begin_layout Plain Layout
+
+        if (curr->getUin() == uin) return curr->getGrade();
+\end_layout
+
+\begin_layout Plain Layout
+
+        else curr = curr->next;
+\end_layout
+
+\begin_layout Plain Layout
+
+    }
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    return 0;
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\size larger
+Conclusion:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This was a very good and constructive assignment, that really taught me
+ a lot about the hash table data structure.
+ Implementing it really gave me a deep understanding of it.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document

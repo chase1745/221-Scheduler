@@ -2,21 +2,23 @@
 #define HASHTABLE_H
 
 #include <iostream>
-#include "Node.h"
+#include <vector>
+#include "LinkedList.h"
 
 class Hashtable {
 private:
-    Node** htable;
+    std::vector<LinkedList> htable;
 public:
 
     Hashtable();  // default constructor
-    ~Hashtable();  //destructor
     
     int hashFunc(int key);  // hash function
     
     void insert(int key, int value);  
     void remove(int key);
     int search(int key);
+    
+    void hashStats();
 };
 
 #endif
